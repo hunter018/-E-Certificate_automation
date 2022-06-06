@@ -1,4 +1,4 @@
-#E-Certificate Generation and Emailing Program by Vikrant Prasad, IIT G
+#E-Certificate Generation and Emailing Program by SAKET KUMAR, JIET-COE
 import xlrd
 import cv2 
 import smtplib
